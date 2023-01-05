@@ -68,7 +68,11 @@ NSRange strRange = {0,[str length]};
 ```
 
 
+### button添加touchArea
+```objc
+[<#buton#> setTouchArea:UIEdgeInsetsMake(10, 30, 10, 10)];
 
+```
 
 
 
